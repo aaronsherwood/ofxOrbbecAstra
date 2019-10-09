@@ -38,9 +38,9 @@ Note: this assumes your project folder is at the standard "three levels down" fr
 
 This has been tested with the following setup:
 
-- Xcode 6
+- Xcode 8
 - OS X 10.11
-- openFrameworks 0.9.0
+- openFrameworks 0.10.1
 - Astra SDK 0.5.0 (which is included, no separate download/installation is required)
 - Orbbec Astra/Astra Pro camera
 
