@@ -84,7 +84,7 @@ void ofApp::draw(){
 	} else {
 		cam.begin();
 		ofEnableDepthTest();
-		ofRotateY(180);
+		ofRotateYDeg(180);
 		ofScale(1.5, 1.5);
 
 		mesh.draw();

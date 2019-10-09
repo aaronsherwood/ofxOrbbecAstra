@@ -1,1 +1,4 @@
+ofxCv
+ofxGui
+ofxOpenCv
 ofxOrbbecAstra
